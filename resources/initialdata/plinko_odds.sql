@@ -1,0 +1,45 @@
+-- blue ball row8 --
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (1,1,0.5);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (2,1,1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (3,1,1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (4,1,1.1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (5,1,1.1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (6,1,2.1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (7,1,2.1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (8,1,5.6);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (9,1,5.6);
+
+-- red ball row8 --
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (10,2,0.4);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (11,2,0.7);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (12,2,0.7);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (13,2,1.3);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (14,2,1.3);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (15,2,3);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (16,2,3);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (17,2,13);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (18,2,13);
+
+-- blue ball row9 --
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (19,3,0.7);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (20,3,0.7);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (21,3,1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (22,3,1);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (23,3,1.6);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (24,3,1.6);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (25,3,2);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (26,3,2);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (27,3,5.6);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (28,3,5.6);
+
+-- red ball row9 --
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (29,4,0.2);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (30,4,0.2);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (31,4,0.6);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (32,4,0.6);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (33,4,2);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (34,4,2);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (35,4,7);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (36,4,7);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (37,4,43);
+INSERT INTO `plinko_odds` (`id`,`plinko_balls_id`,`odd`)VALUES (38,4,43);
